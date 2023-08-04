@@ -62,3 +62,13 @@ OBS: No Scrum, chamamos tudo de produto, seja um produto, um serviço ou um resu
 Após termos um Backlog do produto, agora precisamos desenvolver um BACKLOG DA SPRINT, ou seja, um escopo do que iremos fazer durante uma sprint até entregarmos uma interação com o cliente para feedback e, então, começarmos outra sprint. Ao longo de uma sprint devemos ter REUNIÕES DIÁRIAS de equipe. 
 
 Como mencionado, ao final de uma Sprint devemos ter uma interação com o cliente para apresentarmos uma parte ou incremento do produto, afim de obter feedback onde ele poderá aprovar a entrega desta parte do produto ou solicitar mudanças, mudanças essas que sempre serão bem vindas e que podem servir de base para iniciarmos a próxima Sprint. 
+
+
+
+VANTAGENS DO SCRUM
+
+O ambiente que o Scrum gera é muito propício para o trabalho em  equipe. No scrum  a tendência é que você consiga naturalmente ter um time mais coeso, unido, comunicativo, autônomo, focado nas metas e sempre motivado por estar entregando valor ao cliente e recebendo feedbacks positivos periódicamente durante o desenvolvimento do projeto.
+
+A produtividade extrema é, também, um grande diferencial do Scrum. O Time-boxing, ou seja, a delimitação de tempos e metas no Scrum, é uma peça chave para a alta produtividade, devida a entrega de valor periódicamente.
+
+Outras vantagens envolvem o cliente, como o fato do cliente poder dar constantemente o feedback sobre o projeto e poder visualizar o andamento e desenvolvimento do projeto, se sentindo muito mais confiante com a entrega do mesmo.
