@@ -102,4 +102,50 @@ Aprender práticas e formas de trabalho relacionadas a agilidades, trabalho em e
 
 Aprender sobre as estratégias de testes, ou seja, quais as melhores formas e caminhos para encontrar os bugs e erros mais relevantes. Existem várias estratégias, baseadas em riscos, baseadas em requisitos, baseadas em informações, prognósticos, etc. E, você pode também combinar estratégias para ter melhor efeito e encontrar mais defeitos.
 
-Aprender sobre ferramentas de testes diferente e ter a capacidade e a vontade de aprender rápido ferramentas novas. 
+Aprender sobre ferramentas de testes diferente e ter a capacidade e a vontade de aprender rápido ferramentas novas.
+
+
+
+DÉBITO TÉCNICO 
+
+O débito técnico ou dívida técnica todo mundo tem e todo mundo sempre terá alguma habilidade ou ferramenta que não terá conhecimento.
+O problema não é ter um débito técnico, o problema é se você não está aprendendo, se não está correndo atrás do seu débito técnico para aprendê-lo. Nós sempre precisamos estar aprendendo algo novo constantemente para evoluirmos enquanto profissionais e, também, porquê nosso mercado de TI está sempre em constante mudança e evolução.
+
+ENTÃO SEMPRE PLANEJE E SE PREPARE PARA APRENDER COISAS NOVAS QUE ENVOLVAM SUA CARREIRA E ESTUDE CONSTANTEMENTE!
+
+REVISE SEUS PLANOS COM O TEMPO POIS O CONHECIMENTO NÃO É IMUTÁVEL, ELE SE TRANSFORMA!
+
+
+
+UMA BREVE HISTÓRIA DO TESTE
+
+Provavelmente o primeiro defeito encontrado deve ser creditado a Ada Lovelace, Filha de Lorde Byron, quando, por correspondência, informou um defeito e sugeriu uma corerção ao senhor Charles Babbage sobre a sua calculadora mecânica, a primeira calculadora do mundo e, possivelmente, o primeiro objeto programável inventado pelo homem, em cerca de 1840 D.C.
+
+Devido a isso e outros motivos, podemos considerar Ada Lovelace a primeira programadora do mundo.
+
+No final do século 19, Herman Holeritt pegoua ideia de Charles Babbage e criou uma máquina de contabilização demográfica para os EUA. Este sistema de Herman Holeritt conseguia economizar muito tempo para o governo dos EUA. Uma das inovações que Holeritt criou foi o cartão perfurado em papel, o primeiro sistema de programação do mundo. 
+
+No final dos Anos 1940, Alan Turing, criou uma máquina chamada Máquina de Turing, que seria o primeiro computador Elétro-Mecânico do mundo, e sua invenção foi crucial para o fim da segunda guerra mundial com a vitória dos aliados.
+
+No dia 9 de Setembro de 1947, Grace Hopper, fez o primeiro registro de um teste e defeito em um computador no mundo.
+
+Praticamente 32 anos depois, em 20 de fevereiro, Glenford Myers escreveu e lançou um livro chamado "A Arte de testar Software", considerada por muitos a bíblia do teste, onde surgiu termos e conceitos usados até hoje nos testes de software como: Caixa branca e caixa preta, valor limite, classe e equivalência... E, principalmente, neste livro ele começou a discutir sobre o que chamamos hoje de A Regra 10 de Myers, uma regra que demonstrava como o custo de resolver um defeito vai aumentando quanto mais tarde se descobre este defeito. Myers dizia que, conforme cada etapa de um processo de desenvolvimento de software vai sendo concluída, um defeito encontrado passa a custar 10 vezes mais caro para ser solucionado para a empresa.
+Outros profissionais e autores de testes de software também fizeram pesquisas relacionadas ao mesmo conceito e, apesar de não chegarem a um consenso sobre a multiplicação exata dos custos, todos concluíram que encontrar um bug, erro ou defeito de software vai ficando muito mais caro conforme mais demorado é para encontrar esses erros. Além de mais caro, será mais complicado, demorado e problemático encontrar um defeito conforme o tempo de desenvolvimento passa.
+
+A VERDADE INEGÁVEL É QUE ENCONTRAR UM DEFEITO AMANHÃ NUNCA TERÁ O MESMO CUSTO E COMPLEXIDADE DE ENCONTRAR UM DEFEITO DAQUI UM MÊS.
+
+Emerson Rios, foi um dos pioneiros da área de Teste de Software no Brasil. Ele escreveu diversos livros sobre o tema.
+Alguns dos livros mais famosos sobre QA do Emerson Rios são: 
+Base de conhecimento em teste de software.
+Projeto & Engenharia de Software: Teste de Software.
+Documentação de Teste de Software.
+Análise de Riscos em projetos de teste de software.
+
+Outros grandes autores brasileiros de livros sobre QA são:
+Leonardo Molinari.
+Márcio Delamaro.
+
+Há ainda grandes e importantes autores estrangeiros especialistas em QA como:
+Rex Black.
+Dorothy Graham.
+Lisa Crispin e Janet Gregory, altoras dos livros "Agile Testing" e "More Agile Testing".
