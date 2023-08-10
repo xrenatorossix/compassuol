@@ -2,41 +2,41 @@ Olá. Este é o meu resumo do dia 4 da primeira Sprint da minha trilha de aprend
 
 
 
-HOJE CONTINUAREMOS OS ESTUDOS DO INÍCIO RÁPIDO EM QA (CURSO UDEMY)
+**HOJE CONTINUAREMOS OS ESTUDOS DO INÍCIO RÁPIDO EM QA (CURSO UDEMY)**
 
 
 
-HARD SKILLS
+## HARD SKILLS
 
 Hard Skills são todos os conhecimentos aplicados aos negócios, a tecnologia, a testes... Ou seja, aplicados ao executar a sua tarefa.
 
 
 
-HARD SKILLS GERAIS
+## HARD SKILLS GERAIS
 
-Hard Skills que você deveria saber para atuar em QA e no mercado de trabalho em geral, hoje em dia:
+### Hard Skills que você deveria saber para atuar em QA e no mercado de trabalho em geral, hoje em dia:
 
-Conhecimento básico de Sistema Operacional (Windows, Linux, Mac, Android e iOS) e não só sber usar pela interface visual, mas também pelo console e linhas de comando.
+**Conhecimento básico de Sistema Operacional** (Windows, Linux, Mac, Android e iOS) e não só sber usar pela interface visual, mas também pelo console e linhas de comando.
 
-Office ou Libre Office (Editor de textos como World, editor de Planilhas eletrônicas como Excel e ferramentas de apresentação como PowerPoint).
+**Office ou Libre Office** (Editor de textos como World, editor de Planilhas eletrônicas como Excel e ferramentas de apresentação como PowerPoint).
 
-E-mail (Saber ler e interpretar emails, saber responder apenas ao remetente ou a todos ou cópia oculta, não fale nada que não considere importante, útil e que você não tenha certeza sobre, ou seja, meça bem suas palavras. O mesmo vale para Whatsapp e demais ferramentas de mensagens instantâneas).
+**E-mail** (Saber ler e interpretar emails, saber responder apenas ao remetente ou a todos ou cópia oculta, não fale nada que não considere importante, útil e que você não tenha certeza sobre, ou seja, meça bem suas palavras. O mesmo vale para Whatsapp e demais ferramentas de mensagens instantâneas).
 
-Idiomas  (Principalmente Inglês, Espanhol, Francês e Mandarim). É preciso entender que um idioma nunca é um problema, isto não pode ser um empecilho.
+**Idiomas**  (Principalmente Inglês, Espanhol, Francês e Mandarim). É preciso entender que um idioma nunca é um problema, isto não pode ser um empecilho.
 
-Conhecimentos de Internet (Saber pesquisar bem, saber fazer cotações, reservas e compras, saber fazer contatos usando as redes sociais como LinkedIn, Instagram, Facebook e Twitter e saber usá-las a seu favor profissional).
+**Conhecimentos de Internet** (Saber pesquisar bem, saber fazer cotações, reservas e compras, saber fazer contatos usando as redes sociais como LinkedIn, Instagram, Facebook e Twitter e saber usá-las a seu favor profissional).
 
-Acesso Remoto (Saber usar TeamViewer e afins, tanto para que você use com outros colegas quanto para que outros colegas usem contigo).
+**Acesso Remoto** (Saber usar TeamViewer e afins, tanto para que você use com outros colegas quanto para que outros colegas usem contigo).
 
-Videoconferência (Saber usar ferramentas como Zoom, Teams, Meets e afins de maneira que não irá te prejudicar profissionalmente, entender a passar uma boa imagem usando-as).
+**Videoconferência** (Saber usar ferramentas como Zoom, Teams, Meets e afins de maneira que não irá te prejudicar profissionalmente, entender a passar uma boa imagem usando-as).
 
-Segurança (Tomar cuidado com a sua Privacidade, o que você acessa  e onde você  acessa, de maneira que não te prejudique profissionalmente, lembre-se que tudo que é acessado é arquivado em algum lugar. Tomar cuidado com a sua Fragilidade, saber usar boas senhas, difíceis de serem violadas, saber fazer conexões seguras, principalmente em redes de internet públicas. Entender sobre Vulnerabilidade, evitando abrir anexos e links que você desconhece, evitar acessar sites e redes maliciosas, saber armazenar suas senhas, conhecer os aplicativos que você usa, entender que mesmo com o que você coloca em um post-it você pode estar vulnerável).  
+**Segurança** (Tomar cuidado com a sua Privacidade, o que você acessa  e onde você  acessa, de maneira que não te prejudique profissionalmente, lembre-se que tudo que é acessado é arquivado em algum lugar. Tomar cuidado com a sua Fragilidade, saber usar boas senhas, difíceis de serem violadas, saber fazer conexões seguras, principalmente em redes de internet públicas. Entender sobre Vulnerabilidade, evitando abrir anexos e links que você desconhece, evitar acessar sites e redes maliciosas, saber armazenar suas senhas, conhecer os aplicativos que você usa, entender que mesmo com o que você coloca em um post-it você pode estar vulnerável).  
 
 
 
-HARD SKILLS SOBRE O NEGÓCIO EM QUE VOCÊ TRABALHA.
+## HARD SKILLS SOBRE O NEGÓCIO EM QUE VOCÊ TRABALHA.
 
-VOCÊ TEM QUE CONHECER O NEGÓCIO QUE VOCÊ TESTA!!
+**VOCÊ TEM QUE CONHECER O NEGÓCIO QUE VOCÊ TESTA!!**
  
 Então, se você for testar para um banco, por exemplo, você terá que entender como se dá o funcionamento daquele banco, dos tipos de transações e produtos que o banco oferece, etc.
 
@@ -59,28 +59,28 @@ Estas Hard Skills também podem valer para outros segmentos e tipos de trabalhos
 
 
 
-HARDS SKILLS SOBRE AS TECNOLOGIAS QUE VOCÊ IRÁ USAR!!
+## HARDS SKILLS SOBRE AS TECNOLOGIAS QUE VOCÊ IRÁ USAR!!
 
 As tecnologias que você deveria saber para atuar como QA e também no mercado de TI são:
 
-Noções de Programação (Não dá para fugir, entender de lógica de programação, saber linguagens como Javascript e Python, enfim, tornar a programação algo natural e agradável para você).
+**Noções de Programação** (Não dá para fugir, entender de lógica de programação, saber linguagens como Javascript e Python, enfim, tornar a programação algo natural e agradável para você).
 
-Noções de Telecomunicações (Protocolos de internet como TCP/IP, saber quais são os meios de comunicação como Wi-fi, 4G, 5G, ter conhecimentos gerais sobre redes de computadores, como as redes funcionam, cabeamentos, etc.).
+**Noções de Telecomunicações** (Protocolos de internet como TCP/IP, saber quais são os meios de comunicação como Wi-fi, 4G, 5G, ter conhecimentos gerais sobre redes de computadores, como as redes funcionam, cabeamentos, etc.).
 
-Noções de Infraestrutura (Conhecimentos sobre virtualização, Virtual Machines e Containers, saber sobre servidores, indicadores como CPU, RAM e Discos, conhecimentos sobre equipamentos de tecnologias, suas configurações, componentes, etc.).
+**Noções de Infraestrutura** (Conhecimentos sobre virtualização, Virtual Machines e Containers, saber sobre servidores, indicadores como CPU, RAM e Discos, conhecimentos sobre equipamentos de tecnologias, suas configurações, componentes, etc.).
 
-Noções de Banco de Dados (Relacionais como os usados em sistemas de lojas e bancos e os Não Relacionais como os sistemas de Power BI, Data Science, etc. É importante você estar familiarizado com algum tipo de banco de dados, seja ele SQL, Oracle, MongoDB, etc.).
+**Noções de Banco de Dados** (Relacionais como os usados em sistemas de lojas e bancos e os Não Relacionais como os sistemas de Power BI, Data Science, etc. É importante você estar familiarizado com algum tipo de banco de dados, seja ele SQL, Oracle, MongoDB, etc.).
 
 
 
-HARD SKILLS ESPECÍFICAS SOBRE TESTES E QA!!!
+## HARD SKILLS ESPECÍFICAS SOBRE TESTES E QA!!!
 
 Até agora vimos Hard Skills que servem não só para QA mas também para todo tipo de negócio e, também, para outras áreas da TI.
 Agora veremos quais são as Hard Skills necessárias especificamente para se trabalhar com Segurança de Qualidade e Testes de Software.
 
 As Hard Skills para QA e Testes são:
 
-Saber Planejar testes, ou seja, entender quais são os objetivos e riscos e o que fazer para que os seus testes funcionem direito.
+Saber Planejar testes**, ou seja, entender quais são os objetivos e riscos e o que fazer para que os seus testes funcionem direito.
 
 Saber Analisar quais são os  melhores testes que você poderá realizar dentro dos tempos e recursos que você tiver disponível.
 
@@ -106,18 +106,18 @@ Aprender sobre ferramentas de testes diferente e ter a capacidade e a vontade de
 
 
 
-DÉBITO TÉCNICO 
+## DÉBITO TÉCNICO 
 
 O débito técnico ou dívida técnica todo mundo tem e todo mundo sempre terá alguma habilidade ou ferramenta que não terá conhecimento.
 O problema não é ter um débito técnico, o problema é se você não está aprendendo, se não está correndo atrás do seu débito técnico para aprendê-lo. Nós sempre precisamos estar aprendendo algo novo constantemente para evoluirmos enquanto profissionais e, também, porquê nosso mercado de TI está sempre em constante mudança e evolução.
 
-ENTÃO SEMPRE PLANEJE E SE PREPARE PARA APRENDER COISAS NOVAS QUE ENVOLVAM SUA CARREIRA E ESTUDE CONSTANTEMENTE!
+**ENTÃO SEMPRE PLANEJE E SE PREPARE PARA APRENDER COISAS NOVAS QUE ENVOLVAM SUA CARREIRA E ESTUDE CONSTANTEMENTE!**
 
-REVISE SEUS PLANOS COM O TEMPO POIS O CONHECIMENTO NÃO É IMUTÁVEL, ELE SE TRANSFORMA!
+**REVISE SEUS PLANOS COM O TEMPO POIS O CONHECIMENTO NÃO É IMUTÁVEL, ELE SE TRANSFORMA!**
 
 
 
-UMA BREVE HISTÓRIA DO TESTE
+## UMA BREVE HISTÓRIA DO TESTE
 
 Provavelmente o primeiro defeito encontrado deve ser creditado a Ada Lovelace, Filha de Lorde Byron, quando, por correspondência, informou um defeito e sugeriu uma corerção ao senhor Charles Babbage sobre a sua calculadora mecânica, a primeira calculadora do mundo e, possivelmente, o primeiro objeto programável inventado pelo homem, em cerca de 1840 D.C.
 
@@ -132,7 +132,7 @@ No dia 9 de Setembro de 1947, Grace Hopper, fez o primeiro registro de um teste 
 Praticamente 32 anos depois, em 20 de fevereiro, Glenford Myers escreveu e lançou um livro chamado "A Arte de testar Software", considerada por muitos a bíblia do teste, onde surgiu termos e conceitos usados até hoje nos testes de software como: Caixa branca e caixa preta, valor limite, classe e equivalência... E, principalmente, neste livro ele começou a discutir sobre o que chamamos hoje de A Regra 10 de Myers, uma regra que demonstrava como o custo de resolver um defeito vai aumentando quanto mais tarde se descobre este defeito. Myers dizia que, conforme cada etapa de um processo de desenvolvimento de software vai sendo concluída, um defeito encontrado passa a custar 10 vezes mais caro para ser solucionado para a empresa.
 Outros profissionais e autores de testes de software também fizeram pesquisas relacionadas ao mesmo conceito e, apesar de não chegarem a um consenso sobre a multiplicação exata dos custos, todos concluíram que encontrar um bug, erro ou defeito de software vai ficando muito mais caro conforme mais demorado é para encontrar esses erros. Além de mais caro, será mais complicado, demorado e problemático encontrar um defeito conforme o tempo de desenvolvimento passa.
 
-A VERDADE INEGÁVEL É QUE ENCONTRAR UM DEFEITO AMANHÃ NUNCA TERÁ O MESMO CUSTO E COMPLEXIDADE DE ENCONTRAR UM DEFEITO DAQUI UM MÊS.
+## A VERDADE INEGÁVEL É QUE ENCONTRAR UM DEFEITO AMANHÃ NUNCA TERÁ O MESMO CUSTO E COMPLEXIDADE DE ENCONTRAR UM DEFEITO DAQUI UM MÊS.
 
 Emerson Rios, foi um dos pioneiros da área de Teste de Software no Brasil. Ele escreveu diversos livros sobre o tema.
 Alguns dos livros mais famosos sobre QA do Emerson Rios são: 
