@@ -172,3 +172,59 @@ Se eu preciso codificar para alterar o softeware, então estamos falando de Anal
 Testabilidade: Se o software é viável e fácil de testar. Existem testes que não se testa ou se testa com extremo cuidado, são raros mas existem. Existem testes que só se consegue fazer manualmente e existem testes que possuem ferramentas de automação para se testar mais rápido. 
 
 Toda vez que você receber um software para testar, a primeira coisa a ser feita é justamente avaliar a testabilidade daquele software. Entender se você possui as ferramentas, recursos, conhecimentos e habilidades necessárias para testar o software.
+
+P - PORTABILIDADE!
+
+É a capacitade de um software de funcionar em vários sistemas operacionais, equipamentos e cenários. A Portabilidade se subdivide em 3 subcaracterísticas:
+
+Adaptabilidade: Que seria a facilidade do sowftware se adaptar em multiplos ambientes, como vários SO, varias telas, etc.
+
+Instalabilidade: Seria a facilidade de se instalar ou desinstalar do software.
+
+Substituibilidade: A facilidade que se tem de substituir um software anterior por um novo. Ou seja, se uma versão nova de um software substitui uma versão antiga, ou se o seu software consegue substituir bem um software de um concorrente.
+
+S - SEGURANÇA!
+
+É sobre a capacidade de um software de ser seguro e resistênte a ataques maliciosos.
+A segurança é uma característica de teste que se subdivide em 5  subcaracterísticas, são elas:
+
+Confidencialidade: Serve para verificar se o software administra bem os acessos às informações daquele sistema.
+
+Integridade: Significa se o software permite que somente as pessoas altorizadas conseguem modificar informações no software e se ele registra quem mudou algo e quando mudou.
+
+Não Repúdio: É sobre o software conseguir garantir que um determinado usuário que esteja fazendo uma determinada transação seja realmente o usuário certo, a pessoa certa.
+
+Responsabilidade: Se o software consegue garantir e estabelecer realmente que um determinado usuário fez alguma ação, como ela fez essa açao, detalhes sobre a ação e o usuário, etc. Como um recurso que permite prestar contas sobre as atividades do usuário. Essencial em aplicações que envolvem transações financeiras.
+
+Autenticidade: Se o software consegue garantir que, por exemplo, uma determinada transação foi realmente feita, que um determinado usuário é realmente ele, que uma determinada compra é realmente a compra certa. Como são autenticações bancarias e afins.
+
+
+
+TESTES MANIAIS X TESTES AUTOMATIZADOS
+
+Um tester pode hoje está trabalhando em uma empresa fazendo testes manuais, no entanto, ela terá muita dificuldade de realocação no mercado se não souber testes automatizados.
+Testes manuais são fáceis e simples de se fazer porém são testes lentos e tediosos.
+No entanto, há situações em que não há a necessidades de se fazer automação de testes e é melhor realizar testes manuais, principalmente pq são testes simples de se fazer. 
+Portanto, mais importante do que o resultado é o processo de se testar e encontrar defeitos para conseguirmos ajudar melhor nossos clientes e/ou empresas.
+
+Testes Automatizados
+
+Um processo de construção e teste automatizado ocorre em uma base diária e detecta erros de integração de modo antecipado e rápido.
+A integração contínua permite que os testadores ágeis realizem testes automatizados regularmente, em alguns casos, como parte do próprio processo de integração contínua, e enviar feedback rápido para a equipe sobre a qualidade de código.
+
+Testes de Regressão Automatizados
+
+Nos testes de regressão automatizados os resultados são  visíveis para todos os membros da equipe, especialmente quando os relatórios automatizados são integrados no processo.
+Os testes de regressão automatizados podem ser contínuos ao longo da iteração e abrangem a maior quantidade de funcionabilidades possível, inclsuindo estórias de usuários desenvolvidos nas iterações anteriores.
+
+Uma boa covertura nos testes de regressão automatizados ajuda no desenvolvimento (e teste) de grandes sistemas integrados.
+
+Quando o teste de regressão é automatizado, os testadores ágeis são livres para concentrar seus testes manuais em novas funcionabilidades, mudanças implementadas e testes de confirmação (reteste de defeitos corrigidos).
+
+O objetivo de testes de regressão automatizados não é encontrar novos defeitos, mas garantir que tudo o que já foi desenvolvido e já está pronto estejam funcionando.
+
+
+
+TESTES TRADICIONAIS X TESTES ÁGEIS
+
+Não que os testes tradicionais estejam errados, porém, as empresas mudaram, tudo se tornou mais dinâmico e imediato, então não há mais como você ter estratégias de testes que se baseam em longa duração, você precisa criar estratégias de testes que favorecam você realizar e entregar resultados de testes dentro de uma sprint.
