@@ -2,10 +2,10 @@ Olá. Este é o meu resumo do dia 3 da primeira Sprint da minha trilha de aprend
 
 
 
-INÍCIO RÁPIDO EM TESTE DE QA
+# INÍCIO RÁPIDO EM TESTE DE QA
 
 
-CARREIRA EM TESTE DE QA
+# CARREIRA EM TESTE DE QA
 
 Como é uma carreira em teste de QA?
 No nosso caso há muitas vagas  disponíveis com sites como APinfo, LinkedIn, Vagas de (google) e outros. É só pesquisar por palavras chaves como: QA, teste e Quality.
@@ -28,7 +28,7 @@ Para ter uma carreira SÓLIDA em QA e em qualquer outra área de TI, você preci
 
 
 
-O PERFIL DO PROFISSIONAL DE TESTE DE QA
+# O PERFIL DO PROFISSIONAL DE TESTE DE QA
 
 Por que o Próprio Dev não testa?
 O Dev tem que testar sim, existe uma necessidade de um esforço coletivo para procurar ser feito, testers e QA são especialistas nessa função, mas, todos da equipe devem ajudar pois cada um tem uma perspectiva, existem defeitos, que só o programador vai encontrar, pois são defeitos técnicos, envolvendo a programação, que  talvez ele tenha mais facilidade de encontrar este defeito do que alguém de fora. Mas, existem outros defeitos que são mais difíceis do programador enxergar. 
@@ -37,9 +37,9 @@ Então TODO MUNDO pode e deve testar, seja ele o programador, o PO, o Scrum Mast
 
 
 
-SOFT SKILLS 
+## SOFT SKILLS 
 
-HABILIDADES PESSOAIS
+### HABILIDADES PESSOAIS
 
 As Habilidade pessoais mais desejadas em um QA são:
 Motivação
@@ -54,12 +54,12 @@ Organizado
 Priorização
 Autogerenciamento
 
-HABILIDADES INTERPESSOAIS
+### HABILIDADES INTERPESSOAIS
 As habilidades interpessoais desejadas em um QA são:
 Comunicação (Saber falar, ouvir, ler, escrever, interpretar, desenhar, ter postura corporal adequada e não ser apenas um portador de más notícias, ou seja, saber se comunicar para dar ideias novas, elogiar, compartilhar opinião, etc.)
  
-Negociação (Saber conversar com sua equipe ou usuários e clientes para organizar prazos e recursos e saber construir uma relação ganha-ganha, uma relação em que todo mundo se saia bem em reuniões, para evitar conflitos)
+**Negociação** (Saber conversar com sua equipe ou usuários e clientes para organizar prazos e recursos e saber construir uma relação ganha-ganha, uma relação em que todo mundo se saia bem em reuniões, para evitar conflitos)
 
-Empatia (Ter a capacidade de se colocar no lugar de outra pessoa, entender os desejos, as necessidades, as dores, as restrições, as preferências, hábitos e costumes de outras pessoas, etc.)
+**Empatia** (Ter a capacidade de se colocar no lugar de outra pessoa, entender os desejos, as necessidades, as dores, as restrições, as preferências, hábitos e costumes de outras pessoas, etc.)
 
-Trabalho em equipe (Entre as habilidades das relações interpessoais, a mais importante é o trabalho em equipe, pois é com trabalho em equipe que iremos exercer todas as outras habilidades interpessoais citadas. Então é importante ser objetivo, tirar dúvidas, tomar decisões, planejar, revisar, saber fazer retrospectivas, aprender com os erros não somente seus mas dos colegas e saber externar isso e, principalmente, saber colaborar.)
+**Trabalho em equipe** (Entre as habilidades das relações interpessoais, a mais importante é o trabalho em equipe, pois é com trabalho em equipe que iremos exercer todas as outras habilidades interpessoais citadas. Então é importante ser objetivo, tirar dúvidas, tomar decisões, planejar, revisar, saber fazer retrospectivas, aprender com os erros não somente seus mas dos colegas e saber externar isso e, principalmente, saber colaborar.)
