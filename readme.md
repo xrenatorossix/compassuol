@@ -1,6 +1,6 @@
 Olá. Este é o meu resumo do dia 1 da primeira Sprint da minha trilha de aprendizado sobre QA com AWS enquanto estou estagiando pela Compass.uol
 
-Alteração: Além do que foi aprendido aqui, há também o aprendizado prático em arquivos readme e com as ferramentas git bash e github.
+OBS: Além do que foi aprendido aqui, há também o aprendizado prático em arquivos readme e com as ferramentas git bash e github.
 
 
 # GIT E GITHUB 
