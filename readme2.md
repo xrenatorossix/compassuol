@@ -1,12 +1,12 @@
 Olá. Este é o meu resumo do dia 2 da primeira Sprint da minha trilha de aprendizado sobre QA com AWS enquanto estou estagiando pela Compass.uol
 
-FUNDAMENTOS DO SCRUM
+# FUNDAMENTOS DO SCRUM
 
 O Scrum é a abordagem ágil mais utilizada no mundo e hoje nós vamos aprender qual é o fluxo do scrum, quais são os papéis envolvidos nesse fluxo, etc. Aprendendo a teoria e praticando, em seguida, um sistema de gestão de projetos ágeis.
 
 
 
-ANTES DO ÁGIL, ENTENDA A GESTÃO TRADICIONAL DE PROJETOS
+# ANTES DO ÁGIL, ENTENDA A GESTÃO TRADICIONAL DE PROJETOS
 
 A grande marca da gestão tradicional de projetos é o foco no planejamento de tudo que será realizado do início ao fim do projeto. Em uma gestão tradicional de projetos, você precisa prever e planejar tudo o que vai ser realizado do início ao fim do trabalho.
 
@@ -20,7 +20,7 @@ Por último, o produto, resultado ou serviço é disponibilizado ao cliente apen
 
 
 
-A GESTÃO ÁGIL DE PROJETOS
+# A GESTÃO ÁGIL DE PROJETOS
 
 Na década de 90 foi criado o Manifesto Ágil, que nada mais é do que uma declaração de princípios que fundamentam o desenvolvimento ágil, a gestão ágil surgiu inicialmente para ser aplicada em TI, porém, ela se encaixa em inúmeros outros projetos.
 
@@ -34,16 +34,16 @@ A Principal diferença entre a metodologia tradicional e a ágil é que a metodo
 
 
 
-TRADICIONAL X ÁGIL: QUAL O MELHOR?
+# TRADICIONAL X ÁGIL: QUAL O MELHOR?
 
 Não existe metodologia melhor. As duas são voltadas para projetos diferentes. O mais importante é conhecer as duas para poder decidir com clareza qual a melhor abordagem para determidado projeto. 
 
 
 
-GESTÃO ÁGIL COM SCRUM
+# GESTÃO ÁGIL COM SCRUM
 
 
-O FLUXO DO SCRUM
+## O FLUXO DO SCRUM
 
 O projeto surge a partir de uma necessidade, uma ideia.
 
@@ -65,7 +65,7 @@ Como mencionado, ao final de uma Sprint devemos ter uma interação com o client
 
 
 
-VANTAGENS DO SCRUM
+## VANTAGENS DO SCRUM
 
 O ambiente que o Scrum gera é muito propício para o trabalho em  equipe. No scrum  a tendência é que você consiga naturalmente ter um time mais coeso, unido, comunicativo, autônomo, focado nas metas e sempre motivado por estar entregando valor ao cliente e recebendo feedbacks positivos periódicamente durante o desenvolvimento do projeto.
 
