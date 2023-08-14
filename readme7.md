@@ -322,3 +322,42 @@ Eles projetam e criam soluções de automação apra o ambiente, voltadas aos si
 Os engenheiros de DevOps também analisam e recomendam continuamente melhorias nos processos e procedimentos operacionais. Eles gerenciam o conjunto padrão de testes de automação para cada ambiente e fornecem suporte às aplicações. 
 
 Eles também desenvolvem e mantêm processos para o gerenciamento de alterações.
+
+
+
+# Módulo 3 - FUNÇÕES NA NUVEM E INFRAESTRUTURA COMO CÓDIGO
+
+## Gerenciamento manual e automatizado
+
+Há muitas manieras de gerenciar, monitarar e atualizar seu ambiente de Nuvem AWS. Você pode configurar manualmente seu ambiente usando o Console de Gerenciamento da AWS, a CLI da AWS e as APIs da AWS.
+
+Você pode automatizar muitas das tarefas usando infraestrutura como código e o AWS CloudFormation, que usa modelos armazenadaos em um sistema decontrole de código. As alterações na pilha de infraestrutura podem ser facilmente monitoradas e voc~e pode atualizar seus recursos de nuvem de forma controlada e revisível. A infraestrutura como código pode fornecer uma infraestrutura reutilizável, sustentável,  extensível e testável.
+
+## Por que usar infraestrutura como código?
+
+A infraestrutura como código é uma prática em que a infraestrutura é fornecida e gerenciada usando ténicas de desenvolvimento de código e software, como o versionamento e a integração e distribuição contínuas.
+Isso fornece uma infraestrutura reutilizável, sustentável, extensível e testável.
+
+A infraestrutura como código permite a você codificar e iterar seus projetos. Isso permite que você pegue fácil e rapidamente as aplicações legadas, ajuste-as em um padrão de design que seja um código real e mova-os para a nuvem.
+
+Como resultado, a infraestrutura como código proporciona um código de qualidade. Ele também fornece agilidade porque você pode iterar rapidamente nos designs. A infraestrutura como código também torna o seu código mais eficiente porque você pode integrar a infraestrutura e o código da aplicação como código-fonte em vez de lidar com cada um separadamente.
+
+## Uso do modelo de DevOps para desenvolver aplicações
+
+Vejamos como uma aplicação é implantada em um ambiente de DevOps e as funções usadas em cada ponto. As tarefas, do ponto de vista do DevOps, exigem que você primeiro crie uma arquitetura independente da solução.
+
+O lado Dev precisa projetar uma arquitetura de aplicações otimizada para a nuvem, escrever o código da aplicação, criar e compilar o código, testar o código da aplicação e, finalmente, empacotar o código da aplicação e da infraestrutura.
+
+O lado Ops precisa projetar uma arquitetura de infraestrutura de nuvem dependente da solução, criar e gerenciar o código da infraestrutura, criar o s fluxos de trabalho, validar as imagens e, finalmente, automatizar a implantação.
+
+A aplicação pode então ser implantada em um ambiente de desenvolvimento, teste, estágio ou produção.
+
+O engenheiro de DevOps cria, compila e testa o código e, em seguida, empacota a aplicação a ser implantada.
+
+O engenheiro de DevOps cria os fluxos de trabalho, valida as imagens e automatiza a implantação da infraestrutura de nuvem.
+
+## Definição da linha vermelha de separação
+
+Agora que você viu como o código pode ser usado para automatizar o ambiente, você precisa tomar a decisão sobre como usar a linha vermelha para dividir as tarefas de desenvolvimento e as tarefas de operação na sua organização. 
+
+Seus parceiros da AWS ou representante de serviços profissionais podem ajudar você a descobrir o local ideal para traçar essa linha, com base em suas metas. Segurança, sensibilidade à aplicação, histórico da organização, habilidades e experiências da equipe, tecnologias adotadas, objetivos empresariais, lideranla e muitos outros fatores afetam onde essa linha vermelha estará na sua empresa. Não há solução correta. Essa decisão é baseada na sua empresa, sua cultura e suas metas.
