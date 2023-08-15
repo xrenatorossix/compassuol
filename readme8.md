@@ -367,3 +367,102 @@ Enquanto o barista está preparando a bebida, o operador de caixa consegue conti
 **Para aplicativos e microsserviços desacoplados, o Amazon SQS permite enviar, armazenar e recuperar mensagens entre componentes.**
 
 **Essa abordagem desacoplada permite que os componentes separados funcionem de forma mais eficiente e independente.**
+
+
+
+## SERVERLESS
+
+Você pode estar se perguntando quais outros serviços da AWS podem prover poder computacional, porém de uma forma um pouco mais conveniente. Sob a ótica de gerenciamento. É aqui que entra Serveless entra. 
+
+A AWS oferece várias opções de computação serverless. Serverless significa que você não pode ver ou acessar a infraestrutura subjacente nem as instâncias que estão hospedando a sua aplicação, já que todo o gerenciamento de ambiente, a manutenção, o provisionamento, escalabilidade, alta disponibilidade, tudo isso é cuidado para você. Tudo o que você precisa fazer é focar na sua aplicação e o resto estará resolvido.
+
+Serverless significa "sem servidor" e isso significa que o código é executado em servidores, sem que você precise provisionar ou gerenciar esses servidores. Com a computação sem servidor, você pode se concentrar na inovação de novos produtos e recursos em vez de manter servidores.
+
+Outro benefício da computação sem servidor é a flexibilidade de dimensionar aplicativos sem servidor automaticamente. A computação sem servidor pode ajustar a capacidade de aplicativos modificando as unidades de consumo, como taxa de transferência e memória.
+
+**Um serviço AWS para computação sem servidor é o AWS Lambda.**
+
+
+
+## AWS LAMBDA 
+
+O AWS lambda é uma opção de computação serverless. O Lambda é um serviço que permite que você faça o upload do seu código no que chamamos de função lambda, configure um trigger, ou seja, um evento que vai iniciar a execução da sua função Lambda e o serviço vai aguardar o trigger. Quando o Trigger é detectado, o código é automaticamente executado em um ambiente gerenciado. Um ambiente no qual você não precisa se preocupar muito porque é altamente escalável, altamente disponível e toda manutenção do próprio ambiente é feita pela AWS. Não importa se você estiver com um ou mil triggers de entrada, o Lambda vai dimensionar o que for necessário para atender a demanda.
+
+O Lambda foi projetado para executar um código em até 15 minutos, então, não foi criado para o processamento de longa execução, como o Deep learning, por exemplo. É mais adequado para processamentos rápidos, como um back end de um servidor web manipulando solicitações ou como um back end de um serviço de processamento de relatórios de despesa, onde cada solicitação leva menos de 15 minutos para ser processada.
+
+Ao usar o AWS Lambda, você paga apenas pelo tempo de computação que consumir. As cobranças se aplicam ao tempo em que o código fica em execução. Você pode executar códigos para praticamente qualquer tipo de aplicativo ou serviço de back-end sem a necessidade de qualquer gerenciamento.
+
+Por exemplo, uma função simples do Lambda é o redimensionamento automático de imagens com o upload feito na nuvem AWS. Nesse caso, a função é acionada ao fazer upload de uma nova imagem.
+
+
+
+### Como o AWS Lambda Funciona: 
+
+- Você envia o código para o Lambda, ou seja, faz um upload do código para o Lambda.
+- Defina uma fonte de evento que acionará o seu código, ou seja, você define que o código seja acionado a partir de uma origem de evento, como serviços AWS, aplicativos móveis ou endpoints HTTP.
+- O código é executado somente quando acionado pelo Lambda.
+- Pague apenas pelo tempo de computação que usar, ou seja, você paga apenas pelo tempo de computação que usar. No exemplo anterior de redimensionamento de imagens, você pagaria apenas pelo tempo de computação usado ao fazer upload de novas imagens. Fazer upload das imagens aciona o Lambda a executar o código da função de redimensionamento de imagem.
+
+
+
+## CONTAINERS
+
+Na AWS, você também pode criar e executar aplicativos em contêineres.
+
+Os contêineres são uma maneira comum de empacotar códigos, configurações e dependências do aplicativo em um único objeto. Você também pode usar contêineres para processos e fluxos de trabalho nos quais há requisitos essenciais de segurança, confiabilidade e escalabilidade.
+
+
+
+### Containers em Exemplo:
+
+**Um host com vários contêineres:**
+
+Suponha que o computador do desenvolvedor de aplicativos de uma empresa tenha um ambiente diferente do ambiente dos computadores usados pela equipe de operações de TI. O desenvolvedor quer garantir que o ambiente do aplicativo permaneça consistente, independentemente da implantação, para usar uma abordagem em contêineres. Isso ajuda a reduzir o tempo gasto na depuração de aplicativos e no diagnóstico de diferenças em ambientes de computação.
+
+**Dezenas de hosts com centenas de contêineres:**
+
+Ao executar aplicativos em contêineres, é importante considerar a escalabilidade. Suponha que, em vez de um único host com vários contêineres, você precise gerenciar dezenas de hosts com centenas de contêineres. Alternativamente, você precisa gerenciar possivelmente centenas de hosts com milhares de contêineres. Em grande escala, imagine quanto tempo pode demorar para monitorar o uso da memória, a segurança, o registro em log e assim por diante.
+
+**Os serviços de orquestração de contêineres ajudam você a implantar, gerenciar e dimensionar os aplicativos em contêineres. A seguir, você conhecerá dois serviços que fornecem orquestração de contêineres: Amazon Elastic Container Service e Amazon Elastic Kubernetes Service.**
+
+
+
+### Amazon Elastic Container Service (AMAZON ECS):
+
+O Amazon Elastic Container Service (Amazon ECS) é um sistema de gerenciamento de contêineres altamente dimensionável e de alto desempenho que permite executar e dimensionar aplicativos em contêineres na AWS.
+
+O Amazon ECS é compatível com contêineres Docker.
+
+
+
+### Docker:
+
+O Docker é uma plataforma de software que permite criar, testar e implantar aplicativos rapidamente. A AWS é compatível com o Docker Community Edition de código aberto e o Docker Enterprise Edition baseado em assinatura. Com o Amazon ECS, você pode usar chamadas de API para iniciar e interromper aplicativos ativados pelo Docker.
+
+O Docker é uma plataforma amplamente utilizada que trabalha com virtualização e isolamento de softwares em containers, na camada acima do sistema operacional. Agora, um container é uma maneira de empacotar configurações e dependências da sua aplicação em um único objeto. Esses containers são executados em instâncias EC2 e funcionam isoladamente uns dos outros, semelhante à forma como as máquinas virtuais funcionam, mas, nesse caso, o host é uma instância EC2. Quando você usa containers do Docker, na AWS, precisa de processos para iniciar, interromper, reiniciar e monitorar os containers em execução. Não apenas em uma instância EC2, mas em várias delas, ou seja, em clusters.
+
+O processo de realizar essas tarefas é chamado de orquestração de containers e fazer isso manualmente é um tanto quanto complicado. Ferramentas de orquestração foram criadas para ajudar a gerenciar os seus containers. O ECS foi projetado para ajudar na execução das suas aplicações em containers em escala, sem o incômodo de gerenciar o seu próprio software de orquestração de containers. O EKS faz algo semelhante, mas usa ferramentas diferentes e com características diferentes.
+
+
+
+### Amazon Elastic Kubbernetes Service (AMAZON EKS):
+
+O Amazon Elastic Kubernetes Service (Amazon EKS) é um serviço totalmente gerenciado que você pode usar para executar o Kubernetes na AWS.
+
+O Kubernetes é um software de código aberto que permite implantar e gerenciar aplicativos em contêineres em grande escala. Uma grande comunidade de voluntários mantém o Kubernetes, e a AWS trabalha ativamente em conjunto com essa comunidade Kubernetes. Conforme novos recursos e funcionalidades são lançados para aplicativos Kubernetes, você pode facilmente aplicar essas atualizações aos aplicativos gerenciados pelo Amazon EKS.
+
+Tanto o ECS quando o EKS podem ser utilizados numa EC2. Mas se você não quiser nem ao menos pensar em utilizar a EC2 para hospedar esses containers, porque não precisa de acesso ao sistema operacional, ou não quer gerenciar essas instâncias, você pode trabalhar de forma serverless, utilizando a **AWS Fargate.**
+
+
+
+### AWS Fargate: 
+
+O Fargate é uma plataforma de poder computacional serverless para ECS ou EKS. Isso é de um nível um pouco alto e pode ser confuso, então, vamos esclarecer isso.
+
+O AWS Fargate é um mecanismo de computação sem servidor para contêineres. Ele funciona com o Amazon ECS e o Amazon EKS.
+
+Com o AWS Fargate, você não precisa provisionar ou gerenciar servidores. O AWS Fargate gerencia sua infraestrutura de servidor para você. Você pode se concentrar em inovar e desenvolver seus aplicativos, pagando apenas pelos recursos necessários para executar os contêineres.
+
+Se você estiver tentando hospedar suas aplicações tradicionais e desejar sucesso total o sistema operacional como Linux ou Windows, você vai optar por instâncias EC2. Se você deseja trabalhar com processamento de curta duração, orientados a eventos e serviços ou aplicações e não deseja gerenciar o seu ambiente, cheque a AWS Lambda. Se você deseja executar workloads baseados em containers Docker na AWS, primeiro precisa escolher a sua ferramenta de orquestração. O que você prefere: o ECS ou o EKS? Depois de escolher a sua ferramenta, você precisa escolher a sua plataforma. Você prefere executar seus containers em instâncias do EC2 que você gerencia ou utilizando o Fargate que é gerenciado pra você?
+
+Essas são apenas algumas das opções de poder computacional da AWS.
